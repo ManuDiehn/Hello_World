@@ -34,5 +34,3 @@ m.print_information()
 m.export()
 s = m.solve()
 m.print_solution()
-
-##ffffg
